@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+}
+table {
+    border-collapse: collapse;
+    margin: auto;
+}
+td {
+    border: 3px solid black;
+    width: 150px;
+    height: 150px;
+    font-size: 30px;
+    text-align: center;
+}                             
+
+.link {
+    color: darkorange;
+}
+
+.link:hover {
+    color: red;
+}
